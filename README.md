@@ -30,3 +30,6 @@ A Job Template - What exactly the job is about.
 Once the jobs started, the jobs enter these queues.
 ### Compute Environment: 
 Where the jobs will be running.
+
+![aws-batch](https://user-images.githubusercontent.com/30971809/57176037-4aee8f80-6e53-11e9-9bad-5cb725ebacc2.png)
+
