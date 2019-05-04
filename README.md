@@ -33,3 +33,4 @@ Where the jobs will be running.
 
 ![aws-batch](https://user-images.githubusercontent.com/30971809/57176037-4aee8f80-6e53-11e9-9bad-5cb725ebacc2.png)
 
+![aws-bt](https://user-images.githubusercontent.com/30971809/57176049-6e193f00-6e53-11e9-8e47-390a67187f06.png)
