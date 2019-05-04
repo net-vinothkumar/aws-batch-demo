@@ -31,10 +31,7 @@ Once the jobs started, the jobs enter these queues.
 ### Compute Environment: 
 Where the jobs will be running.
 
-# Why AWS BATCH ?
 <img width="1284" alt="Screen Shot 2019-05-04 at 18 49 38" src="https://user-images.githubusercontent.com/30971809/57182267-80b86600-6e9d-11e9-8031-1e0f9ec4c0ac.png">
-
-# How AWS BATCH ?
 
 ![aws-batch](https://user-images.githubusercontent.com/30971809/57176037-4aee8f80-6e53-11e9-9bad-5cb725ebacc2.png)
 
