@@ -20,8 +20,13 @@ Container to run the docker image.
 AWS Batch runs the docker image through container as an independent Job.
 
 # AWS Batch Service :
-### Dashboard : To get an high view.
-### Jobs : Real jobs that are running and their status.
-### Job Definition : A Job Template - What exactly the job is about.
-### Job Queues : Once the jobs started, the jobs enter these queues.
-### Compute Environment: Where the jobs will be running.
+### Dashboard : 
+To get an high view.
+### Jobs : 
+Real jobs that are running and their status.
+### Job Definition : 
+A Job Template - What exactly the job is about.
+### Job Queues : 
+Once the jobs started, the jobs enter these queues.
+### Compute Environment: 
+Where the jobs will be running.
